@@ -27,7 +27,7 @@
             android:singleLine="true"
             android:text="aaaaaaaaa"
             android:textColor="@color/black"
-            android:textSize="14sp" />
+            android:textSize="12sp" />
 
         <ImageView
             android:id="@+id/img_indicator"

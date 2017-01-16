@@ -76,6 +76,10 @@
         "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw600dp\\icon_pin_cafe.png"
     },
     {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\mini_restaurant.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-sw600dp\\mini_restaurant.png"
+    },
+    {
         "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\icon_pin_bus.png",
         "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-sw600dp\\icon_pin_bus.png"
     },
@@ -224,16 +228,12 @@
         "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-sw600dp\\police.png"
     },
     {
-        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\mini_cinema.png",
-        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-sw600dp\\mini_cinema.png"
-    },
-    {
         "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\restaurant.png",
         "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw600dp\\restaurant.png"
     },
     {
-        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\mini_restaurant.png",
-        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw600dp\\mini_restaurant.png"
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\mini_cinema.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-sw600dp\\mini_cinema.png"
     },
     {
         "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\add_favorite_normal.png",
@@ -448,6 +448,10 @@
         "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw600dp\\mini_police.png"
     },
     {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\icon_pin_restaurant.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-sw600dp\\icon_pin_restaurant.png"
+    },
+    {
         "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\airport.png",
         "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw600dp\\airport.png"
     },
@@ -520,6 +524,10 @@
         "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-sw600dp\\icon_phone.png"
     },
     {
+        "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\mini_restaurant.png",
+        "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw600dp\\mini_restaurant.png"
+    },
+    {
         "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\bus_station.png",
         "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-sw600dp\\bus_station.png"
     },
@@ -574,6 +582,10 @@
     {
         "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\mini_cafe.png",
         "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-sw600dp\\mini_cafe.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\restaurant.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-sw600dp\\restaurant.png"
     },
     {
         "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\mini_bank.png",
