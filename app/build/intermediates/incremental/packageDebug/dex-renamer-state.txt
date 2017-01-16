@@ -1,7 +1,0 @@
-#Mon Jan 16 11:36:57 BRST 2017
-base.0=C\:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9de1cec15703149cdf302a3d1b4cb528deeda74b
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b7eb4dbe400bd55f61dec1e63cd10d65bb82a6d4\\classes.dex
-base.1=C\:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b7eb4dbe400bd55f61dec1e63cd10d65bb82a6d4
-file.0=C\:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9de1cec15703149cdf302a3d1b4cb528deeda74b\\classes.dex
