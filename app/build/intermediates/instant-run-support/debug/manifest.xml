@@ -112,7 +112,7 @@
 
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyCLn2sLJk4nL66-d3-yu0M-sJeCiVcHq2E" />
+            android:value="AIzaSyBDS6G0LDKwU_2-bnGZmfk3YsKe5WDnKEo" />
 
         <activity
             android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"

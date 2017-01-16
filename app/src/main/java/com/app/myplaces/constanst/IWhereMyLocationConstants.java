@@ -9,7 +9,7 @@ public interface IWhereMyLocationConstants {
 
 	public static final String MAP_KEY = "MAP_KEY";
 	
-	public static final String API_KEY = "API_KEY";
+	public static final String API_KEY = "AIzaSyBDS6G0LDKwU_2-bnGZmfk3YsKe5WDnKEo";
 
 	public static final boolean DEBUG = false;
 
