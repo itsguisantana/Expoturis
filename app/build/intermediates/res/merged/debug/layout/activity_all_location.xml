@@ -13,7 +13,7 @@
 
         <fragment
             android:id="@+id/fragment_location_home"
-            android:name="com.app.myplaces.fragment.FragmentTotalLocation"
+            android:name="com.app.expo.fragment.FragmentTotalLocation"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_above="@+id/layout_ad" />

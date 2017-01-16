@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\aidl\\com\\projects\\expoturis\\location\\ITrackRecordingService.aidl
+ * Original file: C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\aidl\\com\\projects\\expoturis\\location\\ITrackRecordingService.aidl
  */
 package com.projects.expoturis.location;
 /**

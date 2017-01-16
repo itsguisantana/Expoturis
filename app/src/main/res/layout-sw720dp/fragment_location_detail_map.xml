@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/grey" >
 
-    <com.app.myplaces.slidinguppanel.SlidingUpPanelLayout
+    <com.app.expo.slidinguppanel.SlidingUpPanelLayout
         android:id="@+id/layout_slidingup"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -87,6 +87,6 @@
                 </LinearLayout>
             </ScrollView>
         </LinearLayout>
-    </com.app.myplaces.slidinguppanel.SlidingUpPanelLayout>
+    </com.app.expo.slidinguppanel.SlidingUpPanelLayout>
 
 </RelativeLayout>

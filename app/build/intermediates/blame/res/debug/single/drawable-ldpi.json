@@ -1,11 +1,27 @@
 [
     {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\small_star_off.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-ldpi\\small_star_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\small_star_half_on.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-ldpi\\small_star_half_on.png"
+    },
+    {
         "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\small_star_half_on.png",
         "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-ldpi\\small_star_half_on.png"
     },
     {
         "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
         "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\big_star_off.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-ldpi\\big_star_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\big_star_on.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-ldpi\\big_star_on.png"
     },
     {
         "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\powered_by_google.png",
@@ -20,12 +36,28 @@
         "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-ldpi\\big_star_off.png"
     },
     {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\small_star_on.png",
         "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-ldpi\\small_star_on.png"
     },
     {
         "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\small_star_off.png",
         "source": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\res\\drawable-ldpi\\small_star_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\small_star_on.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-ldpi\\small_star_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\powered_by_google.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-ldpi\\powered_by_google.png"
+    },
+    {
+        "merged": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\big_star_half_on.png",
+        "source": "C:\\Users\\Vinicius\\AndroidStudioProjects\\Expoturis\\app\\src\\main\\res\\drawable-ldpi\\big_star_half_on.png"
     },
     {
         "merged": "C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\big_star_half_on.png",
