@@ -15,7 +15,7 @@ import android.support.multidex.MultiDexApplication;
  * @Package com.ypyproductions.wheremylocation
  * @Copyright YPY Productions
  */
-public class WheresMyPlacesApplication  extends MultiDexApplication{
+public class Expoturis extends MultiDexApplication{
 
     @Override
     public void onCreate() {

@@ -1,8 +1,8 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\aidl\\com\\ypyproductions\\wheresmyplaces\\location\\ITrackRecordingService.aidl
+ * Original file: C:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\src\\main\\aidl\\com\\projects\\expoturis\\location\\ITrackRecordingService.aidl
  */
-package com.ypyproductions.wheresmyplaces.location;
+package com.projects.expoturis.location;
 /**
  * MyTracks service.
  * This service is the process that actually records and manages tracks.
@@ -10,28 +10,28 @@ package com.ypyproductions.wheresmyplaces.location;
 public interface ITrackRecordingService extends android.os.IInterface
 {
 /** Local-side IPC implementation stub class. */
-public static abstract class Stub extends android.os.Binder implements com.ypyproductions.wheresmyplaces.location.ITrackRecordingService
+public static abstract class Stub extends android.os.Binder implements com.projects.expoturis.location.ITrackRecordingService
 {
-private static final java.lang.String DESCRIPTOR = "com.ypyproductions.wheresmyplaces.location.ITrackRecordingService";
+private static final java.lang.String DESCRIPTOR = "com.projects.expoturis.location.ITrackRecordingService";
 /** Construct the stub at attach it to the interface. */
 public Stub()
 {
 this.attachInterface(this, DESCRIPTOR);
 }
 /**
- * Cast an IBinder object into an com.ypyproductions.wheresmyplaces.location.ITrackRecordingService interface,
+ * Cast an IBinder object into an com.projects.expoturis.location.ITrackRecordingService interface,
  * generating a proxy if needed.
  */
-public static com.ypyproductions.wheresmyplaces.location.ITrackRecordingService asInterface(android.os.IBinder obj)
+public static com.projects.expoturis.location.ITrackRecordingService asInterface(android.os.IBinder obj)
 {
 if ((obj==null)) {
 return null;
 }
 android.os.IInterface iin = obj.queryLocalInterface(DESCRIPTOR);
-if (((iin!=null)&&(iin instanceof com.ypyproductions.wheresmyplaces.location.ITrackRecordingService))) {
-return ((com.ypyproductions.wheresmyplaces.location.ITrackRecordingService)iin);
+if (((iin!=null)&&(iin instanceof com.projects.expoturis.location.ITrackRecordingService))) {
+return ((com.projects.expoturis.location.ITrackRecordingService)iin);
 }
-return new com.ypyproductions.wheresmyplaces.location.ITrackRecordingService.Stub.Proxy(obj);
+return new com.projects.expoturis.location.ITrackRecordingService.Stub.Proxy(obj);
 }
 @Override public android.os.IBinder asBinder()
 {
@@ -63,7 +63,7 @@ return true;
 }
 return super.onTransact(code, data, reply, flags);
 }
-private static class Proxy implements com.ypyproductions.wheresmyplaces.location.ITrackRecordingService
+private static class Proxy implements com.projects.expoturis.location.ITrackRecordingService
 {
 private android.os.IBinder mRemote;
 Proxy(android.os.IBinder remote)

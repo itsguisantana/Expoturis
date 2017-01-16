@@ -23,7 +23,7 @@
         android:required="true" />
 
     <application
-        android:name="com.app.myplaces.WheresMyPlacesApplication"
+        android:name="com.app.myplaces.Expoturis"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"

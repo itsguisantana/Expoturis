@@ -1,4 +1,4 @@
-#Mon Jan 16 10:47:58 BRST 2017
+#Mon Jan 16 11:21:32 BRST 2017
 base.0=C\:\\Users\\Agencia-03\\AndroidStudioProjects\\WheresMyPlacesCodeCayon\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9de1cec15703149cdf302a3d1b4cb528deeda74b
 renamed.1=classes.dex
 renamed.0=classes2.dex

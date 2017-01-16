@@ -17,7 +17,7 @@ import com.ypyproductions.location.utils.LocationUtils;
 import com.ypyproductions.location.utils.SystemUtils;
 import com.ypyproductions.utils.DBLog;
 import com.app.myplaces.constanst.IWhereMyLocationConstants;
-import com.ypyproductions.wheresmyplaces.location.ITrackRecordingService;
+import com.projects.expoturis.location.ITrackRecordingService;
 
 /**
  * 

@@ -13,7 +13,7 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  */
-package com.ypyproductions.wheresmyplaces.location;
+package com.projects.expoturis.location;
 
 
 /**

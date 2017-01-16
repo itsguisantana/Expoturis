@@ -9,7 +9,7 @@ import android.os.RemoteException;
 
 import com.ypyproductions.net.task.IDBCallback;
 import com.ypyproductions.utils.DBLog;
-import com.ypyproductions.wheresmyplaces.location.ITrackRecordingService;
+import com.projects.expoturis.location.ITrackRecordingService;
 
 /**
  * 
